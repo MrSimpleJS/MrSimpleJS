@@ -1,7 +1,5 @@
 ### Hi there, I'm Simple 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Developer :)
 
 - ⚡ Developer of Lightning X: [Lightning X][course]!
@@ -45,10 +43,7 @@
 
 [discord]: https://discord.gg/YSbXEdA6Y8
 [course]: https://discord.gg/YSbXEdA6Y8
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://youtube.com/MrSimple0
 [webdevplaylist]: https://discord.gg/YSbXEdA6Y8
 [jsplaylist]: https://discord.gg/YSbXEdA6Y8
 [cssplaylist]: https://discord.gg/YSbXEdA6Y8
