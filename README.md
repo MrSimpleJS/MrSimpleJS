@@ -39,6 +39,10 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Simple's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MrSimpleJS&show_icons=true&theme=radical" />
 
 </details>
 
