@@ -1,8 +1,8 @@
 ### Hi there, I'm Simple 👋
 
-## I'm a Developer :)
+## I'm Developing nice Stuff :)
 
-- ⚡ Developer of Lightning X: [Lightning X][course]!
+- ⚡ Developer & Owner of Lightning X: [Lightning X][course]!
 
 ### Connect with me:
 
