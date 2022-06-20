@@ -15,8 +15,5 @@
 
 </details>
 
-</br>
-
-
 [discord]: https://discord.gg/YSbXEdA6Y8
 [youtube]: https://youtube.com/MrSimple0
