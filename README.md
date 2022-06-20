@@ -15,12 +15,8 @@
 
 </details>
 
+</br>
 
 
 [discord]: https://discord.gg/YSbXEdA6Y8
-[course]: https://discord.gg/YSbXEdA6Y8
 [youtube]: https://youtube.com/MrSimple0
-[webdevplaylist]: https://discord.gg/YSbXEdA6Y8
-[jsplaylist]: https://discord.gg/YSbXEdA6Y8
-[cssplaylist]: https://discord.gg/YSbXEdA6Y8
-[reactplaylist]: https://discord.gg/YSbXEdA6Y8
