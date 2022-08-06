@@ -12,8 +12,6 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m learning multiple languages at the same time, but in the meantime I also reverse some dumbasses pastes.
-- 🌱 Always looking for pasters..
 - 📫 Discord:&nbsp;https://discord.gg/NRedUhJgrw
 
 ---
