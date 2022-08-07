@@ -4,7 +4,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=MrSimpleJS&style=flat-square&color=blue" alt=""></p>
 
-<img height="80px" src="https://wetterlabs.de/wetter_Berlin/woche/"/>
+<img height="80px" src="https://srv1.weatherwidget.org/js/?id=ww_0945fc858277b"/>
 
 <h1 align="center">Hello Hello! i'm Simple. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
