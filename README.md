@@ -4,7 +4,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=MrSimpleJS&style=flat-square&color=blue" alt=""></p>
 
-<img height="80px" src="https://srv1.weatherwidget.org/js/?id=ww_0945fc858277b"/>
+<img height="80px" src="<div id="ww_0945fc858277b" v='1.20' loc='id' a='{"t":"horizontal","lang":"en","ids":[],"cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","sl_sot":"fahrenheit","sl_ics":"one_a","font":"Arial"}'>Weather Data Source: <a href="https://wetterlabs.de/wetter_Berlin/woche/" id="ww_0945fc858277b_u" target="_blank">wetter Paris 7 tage</a></div><script async src="https://srv1.weatherwidget.org/js/?id=ww_0945fc858277b"></script>"/>
 
 <h1 align="center">Hello Hello! i'm Simple. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
