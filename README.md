@@ -1,7 +1,3 @@
-<p align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/></p>
-<p align="center">
-<img height="80px" src="https://discord.c99.nl/widget/theme-1/242294112445792258.png"/>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=MrSimpleJS&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hello Hello! i'm Simple. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
