@@ -8,7 +8,7 @@
 
 Join Discord for Contact me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📫 Discord:&nbsp;https://discord.gg/NRedUhJgrw
+- 📫 Discord:&nbsp;https://discord.gg/cvx7EmAtxd
 
 ---
 
