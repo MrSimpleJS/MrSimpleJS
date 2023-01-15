@@ -73,7 +73,7 @@
 <h3 align="left">Feel free to contact me on Discord!</h3>
 <p>
   <a href="https://discord.gg/cvx7EmAtxd" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="https://dumps.host" width="83" height="40"> 
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="https://discord.gg" width="83" height="40"> 
     Here my Discord Server
   </a>      
 </p>   
