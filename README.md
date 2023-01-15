@@ -71,6 +71,10 @@
 <br>
 <br>
 <h3 align="center">Feel free to contact me on Discord!</h3>
+<img src="https://dumps.host/images/logo.png" alt="https://dumps.host" width="83" height="40"> 
+Here my Discord Server
+</a>      
+
 <p align="center">
   <a href="https://discord.gg/cvx7EmAtxd" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
