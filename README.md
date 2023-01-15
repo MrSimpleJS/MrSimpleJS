@@ -14,7 +14,7 @@
 <div align="center">
 <p>
   <a href="#" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/266585560125014017.png" alt="discordembed">  
+    <img src="https://discord.c99.nl/widget/theme-4/242294112445792258.png" alt="discordembed">  
   </a>
 </p>
 </div>
@@ -63,6 +63,7 @@
   <p>
     <a href="https://dumps.host" target="_blank" rel="noreferrer">
       <img src="https://dumps.host/images/logo.png" alt="https://dumps.host" width="83" height="40">
+    </a>  
       Latest offsets and structures
     </a>      
   </p>
