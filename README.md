@@ -1,7 +1,7 @@
 <h1> </h1>
 <h1 align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Hi!+I'm+Simple!)](https://git.io/typing-svg" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Hi!+I'm+Simple!" alt="Typing SVG">
   </a>
 </h1>
 
@@ -13,6 +13,10 @@
 </p>
 <div align="center">
 <p>
+  <a href="#" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-4/266585560125014017.png" alt="discordembed">  
+  </a>
+</p>
 </div>
 <br>
 <br>
