@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi!+I'm+Simple!;I+like+to+programming+nice+stuff+%3A)" alt="Typing SVG">
   </a>
 </h1>
-
+<br>
 <p align="center">
   <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MrSimpleJS?color=purple&label=total%20stars&logo=github&style=for-the-badge">   
@@ -18,6 +18,7 @@
   </a>
 </p>
 </div>
+<br>
 <br>
 <br>
 <br>
