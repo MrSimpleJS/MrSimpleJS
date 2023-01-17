@@ -50,8 +50,6 @@
   </p>
 <br>
 <br>
-<br>
-<br>
 <h3 align="left">Feel free to contact me on Discord!</h3>
 <p>
   <a href="https://discord.gg/cvx7EmAtxd" target="_blank" rel="noreferrer">
