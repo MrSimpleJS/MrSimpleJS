@@ -7,8 +7,8 @@
 <br>
 <p align="center">
   <a href="#" target="_blank">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MrSimpleJS?color=purple&label=total%20stars&logo=github&style=for-the-badge">   
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MrSimpleJS?color=purple&logo=github&style=for-the-badge">   
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MrSimpleJS?color=blue&label=total%20stars&logo=github&style=for-the-badge">   
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MrSimpleJS?color=blue&logo=github&style=for-the-badge">   
   </a>
 </p>
 <div align="center">
