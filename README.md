@@ -43,9 +43,6 @@
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" alt="mssql" width="45" height="40">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saya-de&layout=compact&bg_color=00000000&text_color=E5E5E5&title_color=A848A6&hide_border=true" alt="top langs">
-  </a>
 </p>
 
 <h3 align="left">Useful links:</h3>
