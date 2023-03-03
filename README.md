@@ -58,7 +58,7 @@
 <p>
   <a href="https://discord.gg/cvx7EmAtxd" target="_blank" rel="noreferrer">
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="https://discord.gg" width="83" height="40"> 
-    Here my Discord Server
+    Support here
   </a>      
 </p>   
 
