@@ -61,9 +61,6 @@
     Support here
   </a>      
 </p>   
-
-<p align="center">
-  <a href="https://discord.gg/cvx7EmAtxd" target="_blank">
     <img src="https://i.imgur.com/HyJbPgj.gif" alt="dinogame">
   </a>
 </p>
