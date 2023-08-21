@@ -3,6 +3,8 @@
   <a href="#" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&multiline=true&width=435&lines=Hey!+I'm+Simple!;I+like+to+programm+nice+stuff+%3A);Mayo+%3D+Mommy" alt="Typing SVG">
   </a>
+  <br>
+  <br>
 <p align="center">
   <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MrSimpleJS?color=blue&label=total%20stars&logo=github&style=for-the-badge">   
