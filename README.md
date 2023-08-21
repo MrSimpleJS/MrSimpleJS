@@ -1,7 +1,7 @@
 <h1> </h1>
 <h1 align="center">
   <a href="#" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi!+I'm+Simple!;I+like+to+programming+nice+stuff+%3A)" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&multiline=true&width=435&lines=Hey!+I'm+Simple!;I+like+to+programm+nice+stuff+%3A);Mayo+%3D+Mommy" alt="Typing SVG">
   </a>
 </h1>
 <br>
