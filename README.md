@@ -3,8 +3,10 @@
   <a href="#" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&multiline=true&width=435&lines=Hey!+I'm+Simple!" alt="Typing SVG">
  </a>
+<h1 align="center">
+  <a href="#" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&multiline=true&width=435&lines=Hey!+I'm+Simple!" alt="Typing SVG">
-
+ </a>
 
   </div>
 <br>
