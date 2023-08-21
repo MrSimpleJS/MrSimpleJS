@@ -8,6 +8,7 @@
 <br>
 <br>
 <br>
+    </p>
 <p align="center">
   <a href="#" target="_blank">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MrSimpleJS?color=blue&label=total%20stars&logo=github&style=for-the-badge">   
