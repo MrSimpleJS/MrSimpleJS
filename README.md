@@ -49,10 +49,6 @@
     <img src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png" alt="mssql" width="45" height="40">
   </a>
 </p>
-
-<h3 align="left">Useful links:</h3>
-  <p>
-<br>
 <br>
 <h3 align="left">Feel free to contact me on Discord!</h3>
 <p>
