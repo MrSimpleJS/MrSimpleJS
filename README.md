@@ -83,14 +83,7 @@
 ### 🤝 Connect
 
 <div align="center" style="margin: 0 0 18px;">
-  <a href="https://discord.gg/cvx7EmAtxd" title="Join my Discord">
-    <img 
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
-      alt="Discord"
-      height="54"
-      style="background:#0d1117;padding:14px;border-radius:18px;display:inline-block;"
-    />
-  </a>
+ 
 </div>
 
 <div align="center">
