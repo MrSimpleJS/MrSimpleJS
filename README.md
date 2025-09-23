@@ -34,15 +34,6 @@
 
 ---
 
-### ✨ Snapshot
-
-- Focused on performant FiveM scripting & tooling  
-- Enjoy low-level exploration (memory structures, offsets, data scanning)  
-- Clean internal architecture > quick hacks  
-- I like building reusable mini frameworks / utilities for faster iteration  
-
----
-
 ### 🧰 Tech Stack
 
 <div align="center">
@@ -91,9 +82,14 @@
 
 ### 🤝 Connect
 
-<div align="center" style="margin-bottom:14px;">
-  <a href="https://discord.gg/cvx7EmAtxd">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord Logo" height="48" />
+<div align="center" style="margin: 0 0 18px;">
+  <a href="https://discord.gg/cvx7EmAtxd" title="Join my Discord">
+    <img 
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+      alt="Discord"
+      height="54"
+      style="background:#0d1117;padding:14px;border-radius:18px;display:inline-block;"
+    />
   </a>
 </div>
 
