@@ -1,0 +1,15 @@
+{
+  "name": "mrsimplejs-profile",
+  "version": "1.0.0",
+  "description": "MrSimpleJS GitHub Profile README",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/readme-test.js"
+  },
+  "keywords": ["github", "profile", "readme"],
+  "author": "MrSimpleJS",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
