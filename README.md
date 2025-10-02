@@ -60,6 +60,7 @@
 |--------|---------------|-------|
 | [Static-ID-FiveM](https://github.com/MrSimpleJS/Static-ID-FiveM) | Persistent & deterministic player identity layer | Lua |
 | [FiveM-Grand-Admin-Mode](https://github.com/MrSimpleJS/FiveM-Grand-Admin-Mode) | Lightweight admin utility mode for moderation flows | Lua / JS |
+| [YouTube-Converter](https://github.com/MrSimpleJS/YouTube-Converter) | YouTube-Converter Thumbnails downloader | HTML / JS |
 
 > Browse more in my repositories for utilities, internal helpers and experimental prototypes.
 
