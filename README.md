@@ -64,24 +64,9 @@
 
 > Browse more in my repositories for utilities, internal helpers and experimental prototypes.
 
----
-
-### 📈 Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=MrSimpleJS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSimpleJS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<!-- Optional streak (uncomment if you want it)
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=MrSimpleJS&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
--->
-
----
-
 ### 🤝 Connect
+
+---
 
 <div align="center" style="margin: 0 0 18px;">
  
