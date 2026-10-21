@@ -23,7 +23,7 @@
     <a href="https://github.com/MrSimpleJS">
       <img src="https://img.shields.io/github/followers/MrSimpleJS?label=Followers&logo=github&color=4C8EDA&style=flat-square" alt="Followers" />
     </a>
-    <a href="https://discord.gg/cvx7EmAtxd">
+    <a href="https://discord.gg/PGSYWADRCV">
       <img src="https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord Support" />
     </a>
   </p>
@@ -74,7 +74,7 @@
 
 <div align="center">
   <!-- Discord Widget Embed -->
-  <a href="https://discord.gg/cvx7EmAtxd" target="_blank">
+  <a href="https://discord.gg/PGSYWADRCV" target="_blank">
     <img src="https://discord.c99.nl/widget/theme-4/242294112445792258.png" alt="Discord Profile Widget" />
   </a>
 </div>
