@@ -75,7 +75,7 @@
 <div align="center">
   <!-- Discord Widget Embed -->
   <a href="https://discord.gg/PGSYWADRCV" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-4/242294112445792258.png" alt="Discord Profile Widget" />
+    <img src="https://statusbanner.com/banner/scenic-cover/242294112445792258.svg?animatedAvatar=1&compact=1&radius=40&bg=000b2e" alt="Discord Profile Widget" />
   </a>
 </div>
 
